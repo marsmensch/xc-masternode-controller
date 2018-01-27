@@ -24,12 +24,12 @@ The `Vagrantfile` in this repository contains the complete configuration of the 
 
 Exactly like with any other development workflow,  the initialisation of this environment is created by checking out this source code repository.
 ```sh
-   git clone https://github.com/marsmensch/xcurrency-masternode-controller.git
+   git clone https://github.com/marsmensch/xc-masternode-controller.git
 ```
 
 ### One command to rule them all
 
-In a console (for Windows use `Git-Bash`) open the cloned directory `xcurrency-masternode-controller` and execute the **one and only required command to create the environment**:
+In a console (for Windows use `Git-Bash`) open the cloned directory `xc-masternode-controller` and execute the **one and only required command to create the environment**:
 
 ```sh
    vagrant up
